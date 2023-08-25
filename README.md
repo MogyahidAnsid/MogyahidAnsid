@@ -10,7 +10,6 @@ Self-taught full stack developer with particular expertise in Laravel, Vue.js an
     Databases: MongoDB, MySQL, Firebase
     Tools: Git, Docker, Redis, Kubernetes, Vagrant, VSCode
 
-    
 ## Projects
 
 Links to some of your key projects:
