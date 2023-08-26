@@ -2,30 +2,27 @@
       width="100%" align="center">
 
 <div align="left">
-<a href="https://github.com/MogyahidAnsid">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MogyahidAnsid&theme=2077" height="140em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MogyahidAnsid&theme=2077" height="140em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MogyahidAnsid&theme=2077" height="140em" />
+      <a href="https://twitter.com/mogyahid_ansid" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+      </a>
+      <a href="https://www.linkedin.com/in/mogyahidansid" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      </a>
+      <a href="https://github.com/MogyahidAnsid" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+      </a>
+</div>
+
+## Statistics
+<div align="left">
+      <a href="https://github.com/MogyahidAnsid">
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MogyahidAnsid&theme=2077" height="140em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MogyahidAnsid&theme=2077" height="140em" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MogyahidAnsid&theme=2077" height="140em" />
 </div>
 
 ## ABOUT ME🧑‍💻
 Self-taught full stack developer with particular expertise in Laravel, Vue.js and MySQL. Passionate about building high-quality, scalable backends and digging into complex debugging challenges. Outside of work, I enjoy contributing to open source, writing tech tutorials, playing chess, and spending quality time with family.
-
-<div>
-      <div align="left">
-            <a href="https://twitter.com/mogyahid_ansid" target="_blank">
-                  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-            </a>
-            <a href="https://www.linkedin.com/in/mogyahidansid" target="_blank">
-                  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-            </a>
-            <a href="https://github.com/MogyahidAnsid" target="_blank">
-                  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-            </a>
-      </div>
-
-  <div align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=MogyahidAnsid.MogyahidAnsid&" /></div>
-</div>
 
 ## Languages and Tools
 <p align="left">
