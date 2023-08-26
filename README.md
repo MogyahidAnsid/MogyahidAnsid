@@ -13,6 +13,9 @@
       </a>
 </div>
 
+## ABOUT ME🧑‍💻
+Self-taught full stack developer with particular expertise in Laravel, Vue.js and MySQL. Passionate about building high-quality, scalable backends and digging into complex debugging challenges. Outside of work, I enjoy contributing to open source, writing tech tutorials, playing chess, and spending quality time with family.
+
 ## Statistics
 <div align="left">
       <a href="https://github.com/MogyahidAnsid">
@@ -20,9 +23,6 @@
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MogyahidAnsid&theme=2077" height="140em" />
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MogyahidAnsid&theme=2077" height="140em" />
 </div>
-
-## ABOUT ME🧑‍💻
-Self-taught full stack developer with particular expertise in Laravel, Vue.js and MySQL. Passionate about building high-quality, scalable backends and digging into complex debugging challenges. Outside of work, I enjoy contributing to open source, writing tech tutorials, playing chess, and spending quality time with family.
 
 ## Languages and Tools
 <p align="left">
