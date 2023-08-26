@@ -5,6 +5,7 @@
 <a href="https://github.com/MogyahidAnsid">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MogyahidAnsid&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MogyahidAnsid&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MogyahidAnsid&theme=2077" height="180em" />
 </div>
 
 ## ABOUT ME🧑‍💻
